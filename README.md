@@ -2,7 +2,7 @@
 
 ### A boy chasing his dreams
 
-- 🌱 I'm currently learning **React and getting better at C#, learning SOLID, clean arch and how to improve performance **
+- 🌱 I'm currently learning **React and getting better at C#, learning SOLID, clean arch and how to improve performance**
 
 - 📫 How to reach me **thiagomausbach@gmail.com**
 
